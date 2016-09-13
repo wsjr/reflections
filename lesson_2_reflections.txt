@@ -12,9 +12,13 @@ Staging area is different from working directory because this is where the files
 You use staging area to keep track of the logical changes you want to commit.
 You can do this by doing "git diff --staged"
 
-4.) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+4) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 - When trying to fix an issue
 - When implementing new feature
 
 Branches help isolate your changes from master branch. This ensures that you are not compromising the master branch in any way.
+
+5) How do the diagrams help you visualize the branch structure?
+
+Helps you visualize which branch has spawned from another branch and commits asoociated with it.
