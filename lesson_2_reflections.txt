@@ -22,3 +22,7 @@ Branches help isolate your changes from master branch. This ensures that you are
 5) How do the diagrams help you visualize the branch structure?
 
 Helps you visualize which branch has spawned from another branch and commits asoociated with it.
+
+6)What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Combines the changes from the two branches into one commit. It easier to see the changes from different branch from the diagram.
