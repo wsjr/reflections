@@ -26,3 +26,13 @@ Helps you visualize which branch has spawned from another branch and commits aso
 6)What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Combines the changes from the two branches into one commit. It easier to see the changes from different branch from the diagram.
+
+7)What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros of Git's automatic merging
+- Handles most the mundane tasks of merging.
+
+Cons of Git's automatic merging
+- It will introduce bugs if the changes happen in the same block of code.
+- There's no easy way to merge code in the same block of code yet. It still need human intervention.
+
