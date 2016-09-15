@@ -20,3 +20,9 @@ So you can work easily diff your local branch to the last know state of the remo
 
 On projects with multiple contributors. Easier to share code;
 Harder to manage multiple requests.
+
+6) When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When you are about to fix a bug or add a new feature, starting a new branch
+makes sense. This will ensure the master is protected from accidental changes
+that may destabilize the it.
