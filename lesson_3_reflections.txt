@@ -11,3 +11,7 @@ To avoid pulling broken commits that were accidentally pushed to the remote repo
 Fork is for duplicating a repo in GitHub.
 Clone is for duplicating a repo from GitHub to local or from local to local.
 Branch is duplicating a parent branch in the local repo.
+
+4) What is the benefit of having a copy of the last known state of the remote stored locally?
+
+So you can work easily diff your local branch to the last know state of the remote branch even without internet connection.
