@@ -15,3 +15,8 @@ Branch is duplicating a parent branch in the local repo.
 4) What is the benefit of having a copy of the last known state of the remote stored locally?
 
 So you can work easily diff your local branch to the last know state of the remote branch even without internet connection.
+
+5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+On projects with multiple contributors. Easier to share code;
+Harder to manage multiple requests.
